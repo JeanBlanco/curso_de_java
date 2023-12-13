@@ -9,7 +9,7 @@ public class Main {
      */
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
+        System.out.println("Hello world! jejej");
 
 
         // types of dates
@@ -31,7 +31,7 @@ public class Main {
 
         //4. texts
         char variable10 = 'a';
-        String variable11 = "nice to meet you thansk jean";
+        String variable11 = "nice to meet you thansk t34 jeanb";
 
     }
 }
